@@ -1,0 +1,1 @@
+alert('outerjavascript 실행')
